@@ -7,6 +7,6 @@ For me, another issue is that some songs I like, but that doesn't mean I like th
 
 To make a long story short, I need something more precise. 
 
-So I am making Muse. Muse is a webapp that leverages AI to specifically reccomend songs that *sound like* the song you like, and let you listen to them with spotify from there. No weird hit or miss curation algos, just stuff you're guaranteed to like. Think of it like a guy that can put you on to the best music by just giving him a song name for reference. 
+So I am making <strong>Put Me On<strong>. Put Me On is a webapp that leverages AI to specifically reccomend songs that *sound like* the song you like, and let you listen to them with spotify from there. No weird hit or miss curation algos, just stuff you're guaranteed to like. Think of it like a guy that can put you on to the best music by just giving him a song name for reference. 
 
 Today, I initialized the project and got started importing all of my dependencies. More to come tomorrow. 
