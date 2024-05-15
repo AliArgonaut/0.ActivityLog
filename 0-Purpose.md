@@ -1,5 +1,5 @@
 [PURPOSE]
-My plan is to work on one project every day. I will make one entry for each project, titling it with the date I started the project. I will not move on to another project, and thus another entry, until I complete the first. 
+My plan is to work on one project every day. I will make one entry for each project, titling it with the name of the project it refers to. I will not move on to another project, and thus another entry, until I complete the first. 
 
 But why publish this activity log on GitHub? 
 
