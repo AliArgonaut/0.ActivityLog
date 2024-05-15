@@ -1,4 +1,7 @@
-<h1 textalign=center> [5-15-2024] </h1> <br>
+<h1 style = "text-align: center;">Tunematch : Ai Powered Song Suggestions</h1>
+
+
+<h2> [5-15-2024] </h2><br>
 
 I'm an avid music listener. Without music, life just wouldn't be the same. A problem I have is that in every music app I use, the automatically generated song suggestions disappoint me. These algorithms are a black box to everyone who doesn't work there, but I have a hunch that they suggest you things based on the genre of a song, the artist, or whatever. 
 
