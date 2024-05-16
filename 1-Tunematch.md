@@ -8,5 +8,6 @@ Tunematch is a webapp that leverages AI to specifically reccomend songs that *so
 Today, I got started planning the UI, interactivity, and which APIs I would need. More to come tomorrow. 
 <hr>
 
-##5-16-24
+## 5-16-24
 I decided I wanted to go with creating a React App, because I feel like it was suited to what I decided to make, which would effectively be a Single Page Application. I started on the UI, I haven't added any functionality at all yet. I am just working on componentizing everything in a way that is intelligent and easy to maintain. This will be the first app I deploy, so I want it to be sock solid. 
+<hr>
