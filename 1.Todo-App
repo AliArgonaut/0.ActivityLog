@@ -1,7 +1,0 @@
-# Todo App
-## 5-16-2024
-Today I initialized a new React application and, after installing all my dependencies, banged out a simple UI. The general idea of the project is very simple. It's a to-do app, where you can add new tasks, delete tasks, edit tasks, and filter tasks into completed tasks, active tasks, and all tasks. I used tailwind for the styling, and I am just following along with the React tutorial on MDN webdocs. I am doing this to learn react and get one functional app on my github. This is just the beginning of things. 
-
-## 5-17-2024
-
-
